@@ -1,0 +1,14 @@
+Commande ID: CMD-2025-5070
+Client: Filamatra
+Produit: Fixe (PROD-007)
+Détails: 
+Dimensions: 
+Quantité: 1
+Téléphone: 85151816
+Date de livraison: 2025-10-31
+Lieu: Anja
+Total: 100000 MGA
+Avance: 0561661616 MGA
+Reste: 0 MGA
+Notes: 
+------------------------
