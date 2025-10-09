@@ -1,0 +1,14 @@
+Commande ID: CMD-2025-4511
+Client: Noa
+Produit: Fixe (PROD-007)
+Détails: 
+Dimensions: 
+Quantité: 1
+Téléphone: +261337191707
+Date de livraison: 2025-10-21
+Lieu: Tyhhgt
+Total: 100000 MGA
+Avance: 366669 MGA
+Reste: 0 MGA
+Notes: 
+------------------------
