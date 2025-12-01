@@ -1,0 +1,14 @@
+Commande ID: CMD-2025-1734
+Client: Sjsj
+Produit: Fixe (PROD-007)
+Détails: 
+Dimensions: 
+Quantité: 1
+Téléphone: 313
+Date de livraison: 2025-12-19
+Lieu: Hsjw
+Total: 100000 MGA
+Avance: 0 MGA
+Reste: 100000 MGA
+Notes: 
+------------------------
