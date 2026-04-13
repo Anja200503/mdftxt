@@ -1,0 +1,28 @@
+Commande ID: CMD-2026-8498
+Client: Porte 2
+Produit: Porte (PROD-002)
+Détails: Ouvrante, 2 Vantailx, Demi Vitré, Blanc
+Dimensions: 188cm x 70cm - Qty: 1
+Quantité: 1
+Téléphone: 94964
+Date de livraison: 2026-04-20
+Lieu: Tsiroanomandidy 
+Total: 200000 MGA
+Avance: 0 MGA
+Reste: 200000 MGA
+Notes: 
+------------------------
+Commande ID: CMD-2026-8498
+Client: Porte 2
+Produit: Porte (PROD-002)
+Détails: Ouvrante, 1 Vantail, Plein Vitre, Blanc
+Dimensions: 187cm x 79cm - Qty: 1
+Quantité: 1
+Téléphone: 94964
+Date de livraison: 2026-04-20
+Lieu: Tsiroanomandidy 
+Total: 200000 MGA
+Avance: 0 MGA
+Reste: 200000 MGA
+Notes: 
+------------------------
